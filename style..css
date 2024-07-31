@@ -1,0 +1,32 @@
+
+.card{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    height: 400px;
+}
+
+.card-title{
+    font-size: 15px;
+}
+.valor{
+    position: relative;
+    top: -40px;
+    left: 120px;
+}
+
+.estrela{
+    width: 100px;
+    position: relative;
+    top: -90px;
+}
+
+.vender{
+    position: relative;
+    top: -120px;
+    left: 40px;
+}
+.total{
+
+    display: inline-block;
+}
